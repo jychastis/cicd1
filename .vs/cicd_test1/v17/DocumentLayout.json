@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\stis\\_git\\cicd1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE51D907-8C0F-4A4E-BC7F-0AB29CE79EB5}|cicd_test1\\cicd_test1.csproj|d:\\stis\\_git\\cicd1\\cicd_test1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE51D907-8C0F-4A4E-BC7F-0AB29CE79EB5}|cicd_test1\\cicd_test1.csproj|solutionrelative:cicd_test1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\stis\\_git\\cicd1\\.github\\workflows\\cicdtest1-app-20240911161307.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\cicdtest1-app-20240911161307.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE51D907-8C0F-4A4E-BC7F-0AB29CE79EB5}|cicd_test1\\cicd_test1.csproj|d:\\stis\\_git\\cicd1\\cicd_test1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE51D907-8C0F-4A4E-BC7F-0AB29CE79EB5}|cicd_test1\\cicd_test1.csproj|solutionrelative:cicd_test1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CE51D907-8C0F-4A4E-BC7F-0AB29CE79EB5}|cicd_test1\\cicd_test1.csproj|d:\\stis\\_git\\cicd1\\cicd_test1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE51D907-8C0F-4A4E-BC7F-0AB29CE79EB5}|cicd_test1\\cicd_test1.csproj|solutionrelative:cicd_test1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1206,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,20 +110,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\stis\\_git\\cicd1\\cicd_test1\\Dockerfile",
+              "RelativeDocumentMoniker": "cicd_test1\\Dockerfile",
+              "ToolTip": "D:\\stis\\_git\\cicd1\\cicd_test1\\Dockerfile",
+              "RelativeToolTip": "cicd_test1\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-11T07:27:45.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "cicdtest1-app-20240911161307.yml",
               "DocumentMoniker": "D:\\stis\\_git\\cicd1\\.github\\workflows\\cicdtest1-app-20240911161307.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\cicdtest1-app-20240911161307.yml",
               "ToolTip": "D:\\stis\\_git\\cicd1\\.github\\workflows\\cicdtest1-app-20240911161307.yml",
               "RelativeToolTip": ".github\\workflows\\cicdtest1-app-20240911161307.yml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-09-11T07:17:13.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\stis\\_git\\cicd1\\cicd_test1\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "cicd_test1\\Pages\\Index.cshtml",
