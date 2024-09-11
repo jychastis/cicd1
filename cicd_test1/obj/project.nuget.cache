@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ej0CGBkEj3s=",
+  "dgSpecHash": "+pCp6GKetus=",
   "success": true,
-  "projectFilePath": "D:\\stis\\test\\cicd_test1\\cicd_test1\\cicd_test1.csproj",
+  "projectFilePath": "D:\\stis\\_git\\cicd1\\cicd_test1\\cicd_test1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stis\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\stis\\test\\cicd_test1\\cicd_test1\\cicd_test1.csproj": {}
+    "D:\\stis\\_git\\cicd1\\cicd_test1\\cicd_test1.csproj": {}
   },
   "projects": {
-    "D:\\stis\\test\\cicd_test1\\cicd_test1\\cicd_test1.csproj": {
+    "D:\\stis\\_git\\cicd1\\cicd_test1\\cicd_test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\stis\\test\\cicd_test1\\cicd_test1\\cicd_test1.csproj",
+        "projectUniqueName": "D:\\stis\\_git\\cicd1\\cicd_test1\\cicd_test1.csproj",
         "projectName": "cicd_test1",
-        "projectPath": "D:\\stis\\test\\cicd_test1\\cicd_test1\\cicd_test1.csproj",
+        "projectPath": "D:\\stis\\_git\\cicd1\\cicd_test1\\cicd_test1.csproj",
         "packagesPath": "C:\\Users\\stis\\.nuget\\packages\\",
-        "outputPath": "D:\\stis\\test\\cicd_test1\\cicd_test1\\obj\\",
+        "outputPath": "D:\\stis\\_git\\cicd1\\cicd_test1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stis\\AppData\\Roaming\\NuGet\\NuGet.Config",
